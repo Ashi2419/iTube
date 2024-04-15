@@ -56,7 +56,7 @@ const Navbar = () => {
 
                 <div className="flex items-center ">
                     <GiHamburgerMenu onClick={toggleHandler} size="24px" className="cursor-pointer" />
-                    <img className="px-4" width={"115px"} src= "{LogoImg}" alt="yt_logo" />
+                    <img className="px-4" width={"115px"} src= "/iTube_original.jpg" alt="yt_logo" />
                 </div>
                 <div className="flex w-[40%] items-center">
                 <IoIosNotificationsOutline />
